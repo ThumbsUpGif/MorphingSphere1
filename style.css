@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    /* background-color: lightsalmon; */
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    background: white;
+    left: 0;
+}

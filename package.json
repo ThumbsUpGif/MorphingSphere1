@@ -1,0 +1,10 @@
+
+
+{
+  "type": "module",
+  "dependencies": {
+    "open-simplex-noise": "^2.5.0",
+    "three": "^0.144.0",
+    "three-orbitcontrols": "^2.110.3"
+  }
+}
